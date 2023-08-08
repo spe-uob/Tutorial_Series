@@ -1,7 +1,7 @@
 # Python program to display all the prime numbers within an interval
 
-lower = 50
-upper = 100
+lower = 400
+upper = 500
 
 print("Prime numbers between", lower, "and", upper, "are:")
 
