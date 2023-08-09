@@ -8,8 +8,3 @@ print("Prime numbers between", lower, "and", upper, "are:")
 for num in range(lower, upper + 1):
    pass
 
-def identity(x):
-    return x
-
-def test_identity():
-    assert identity(3) == 3
